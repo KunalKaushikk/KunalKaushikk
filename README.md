@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey, I am an amateur engineer from Ringas village who loves coding
+
 
 <!--
 **KunalKaushikk/KunalKaushikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
