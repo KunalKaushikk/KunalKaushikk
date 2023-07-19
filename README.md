@@ -1,4 +1,4 @@
-### Hey, I am an amateur engineer from Ringas,Rajasthan who loves coding
+### Hey, I am an amateur engineer from Jaipur ,Rajasthan who loves coding
 
 I want to start my journey in app dev and I hope I can find some interesting projects and people in that domain on GitHub.  
 *Happy coding!*
